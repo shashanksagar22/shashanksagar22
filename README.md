@@ -3,5 +3,5 @@ My journey with technology started early on, and I quickly developed a keen inte
 ------------------
 
 *   🌍  I'm based in india
-*   ✉️  You can contact me at [insanesagar5k22@gmail.com](mailto:shashanksagar2212@gmail.com)
+*   ✉️  You can contact me at [shashanksagar2212@gmail.com](mailto:shashanksagar2212@gmail.com)
 *   🧠  I'm working On:- C++, Kotlin, Android Studio
